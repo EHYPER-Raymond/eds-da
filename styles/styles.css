@@ -15,7 +15,7 @@
   --background-color: white;
   --light-color: #f8f8f8;
   --dark-color: #505050;
-  --text-color: #131313;
+  text-color: #10416c;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
@@ -118,9 +118,6 @@ h3 { font-size: var(--heading-font-size-l);}
 h4 { font-size: var(--heading-font-size-m); }
 h5 { font-size: var(--heading-font-size-s); }
 h6 { font-size: var(--heading-font-size-xs); }
-
-h3 { color: blue;}
-
 
 p,
 dl,
